@@ -1,3 +1,2 @@
 # Supreme
-personal ideas
-a series of programming exercises
+personal ideas & a series of programming exercises
